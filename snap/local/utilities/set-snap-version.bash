@@ -15,7 +15,7 @@ init(){
 
 	upstream_version="$(
 		git \
-			-C parts/nano/src \
+			-C parts/nano-classic/src \
 			describe \
 			--always \
 			--dirty=-d \
