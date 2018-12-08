@@ -1,4 +1,6 @@
 # Unofficial Snap Packaging for GNU nano(Classic Confinement Edition)
+**NOTE: ** This project has now been superseded by <https://github.com/Lin-Buo-Ren/nano-snap>, as it is now a classic confinement snap.
+
 This is the unofficial snap packaging for GNU nano, [Snaps are universal Linux packages](https://snapcraft.io).
 
 Refer [snap/README.md](snap/README.md) for user-oriented information.
